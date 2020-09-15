@@ -108,3 +108,7 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+#Others
+tmp/*
+!tmp/.gitkeep
